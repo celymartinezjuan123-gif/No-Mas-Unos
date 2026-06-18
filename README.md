@@ -18,8 +18,8 @@ Ayudar a los estudiantes a organizar su vida académica, mejorar sus resultados 
 ## 👥 Integrantes
 - Juan David
 - John Duarte 
-- Deivi montes 
-- Miguel toro
+- Deivi Montes 
+- Miguel Toro
 
 ## 🛠️ Tecnologías
 - HTML
